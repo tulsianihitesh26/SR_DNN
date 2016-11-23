@@ -1,0 +1,13 @@
+fskc0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:21566
+fskp0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:21811
+fsls0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:22056
+fsmm0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:22301
+fsms1 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:22546
+fspm0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:22791
+fssb0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:23036
+ftaj0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:23281
+ftbw0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:23526
+ftlg0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:23771
+fvkb0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:24016
+mabc0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:24261
+madc0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_train.ark:24506

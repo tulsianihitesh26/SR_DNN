@@ -1,0 +1,10 @@
+fadg0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_dev.ark:6
+faks0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_dev.ark:251
+fcal1 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_dev.ark:496
+fcmh0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_dev.ark:741
+fdac1 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_dev.ark:986
+fdms0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_dev.ark:1231
+fdrw0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_dev.ark:1476
+fedw0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_dev.ark:1721
+fgjd0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_dev.ark:1966
+fjem0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_dev.ark:2211

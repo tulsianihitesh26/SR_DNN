@@ -1,0 +1,5 @@
+mklt0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_test.ark:3681
+mlll0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_test.ark:3926
+mlnt0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_test.ark:4171
+mnjm0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_test.ark:4416
+mpam0 /home/asr-gpu/kaldi-trunk/egs/timit_dnn/s5/mfcc/cmvn_test.ark:4661
